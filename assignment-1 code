@@ -1,0 +1,34 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage{authblk}
+\begin{document}
+\title{Assignment-1}
+\author{Guided by:- PROF. SAURABH GUPTA}
+\date{SUMMARY}
+\affil{TOPIC- Philosophy of Artificial Intelligence}
+\maketitle
+
+\begin{summary}
+The philosophy of artificial intelligence is a collection of issues primarily concerned with whether or not AI is possible -- with whether or not it is possible to build 
+an intelligent thinking machine.  Also of concern is whether humans and other animals are best thought of as machines (computational robots, say) themselves. The most important 
+of the "whether-possible" problems lie at the intersection of theories of the semantic contents of thought and the nature of computation. A second suite of problems surrounds
+the nature of rationality. A third suite revolves around the seeming “transcendent” reasoning powers of the human mind. These problems derive from Kurt Gödel's famous
+Incompleteness Theorem.  A fourth collection of problems concerns the architecture of an intelligent machine.  Should a thinking computer use discrete or continuous modes of
+computing and representing, is having a body necessary, and is being conscious necessary.  This takes us to the final set of questions. Can a computer be conscious?  Can a
+computer have a moral sense? Would we have duties to thinking computers, to robots?  For example, is it moral for humans to even attempt to build an intelligent machine?  If 
+we did build such a machine, would turning it off be the equivalent of murder?  If we had a race of such machines, would it be immoral to force them to work for us.
+
+
+
+Probably the most important attack on whether AI is possible is John Searle's famous Chinese Room Argument: Searle 1980.  This attack focuses on the semantic aspects (mental
+semantics) of thoughts, thinking, and computing.   For some replies to this argument, see the same 1980 journal issue as Searle's original paper.  For the problem of the nature
+of rationality, see Pylyshyn 1987.  An especially strong attack on AI from this angle is Jerry Fodor's work on the frame problem: Fodor 1987.  On the frame problem in general,
+see McCarthy & Hayes 1969.  For some replies to Fodor and advances on the frame problem, see Ford & Pylyshyn 1996.  For the transcendent reasoning issue, a central and important 
+paper is Hilary Putnam's Putnam 1960.  This paper is arguably the source for the computational turn in 1960s-70s philosophy of mind.
+
+\end{summary}
+
+{\bf Keywords:} Kurt Godle, incompleteness theorem, intelligence, robot, searle, fodor, pylyshyn, machine, philosophy, transcendent.\\
+
+
+
+\end{document}
