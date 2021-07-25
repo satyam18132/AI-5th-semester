@@ -1,0 +1,19 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage{authblk}
+\begin{document}
+\title{Assignment-3}
+\author{Guided by:- PROF. SAURABH GUPTA}
+\date{SUMMARY}
+\affil{TOPIC- Moravec's Paradox}
+\maketitle
+
+\begin{summary}
+Moravec’s paradox proposes that this distinction has its roots in evolution. As a species, we have spent millions of years in selection, mutation, and retention of specific
+skills that has allowed us to survive and succeed in this world. Some examples of such skills include learning a language, sensory-motor skills like riding a bicycle, and
+drawing basic art.
+
+\end{summary}
+
+
+
+\end{document
