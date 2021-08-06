@@ -1,0 +1,40 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage{authblk}
+\begin{document}
+\title{Assignment-4}
+\author{Guided by:- PROF. SAURABH GUPTA}
+\date{Role of AI}
+\affil{TOPIC- Image Analysis For Radiology}
+\maketitle
+
+\begin{Role of AI}
+Recent advances in computer vision are set to revolutionize the field of medical imaging, which in turn extends across many different healthcare functions.
+
+In radiology, doctors analyze image sets gathered from, e.g., Computed Tomography (CT) scans, Magnetic Resonance Imaging (MRI), ultrasounds, PET scans, and mammography. 
+
+Doctors performed the first CT scan of a human brain in 1971. Harvard Medical School reports that today over 80 million CT scans are performed each year. That’s a lot of 
+pictures to examine by hand, requiring immense amounts of hospital resources to detect diseases, much less detect them in real-time.
+
+AI-assisted imaging technologies expand the ability to analyze these images through pattern recognition. They can help doctors by highlighting certain image features, identify
+early predictors of cancer, prioritize cases and cut down on the volume of labor required to perform accurate diagnoses.
+
+Training machine learning models on mountains of imaging data optimizes them to detect microscopic anomalies and inconsistencies that indicate the presence of ailments. 
+
+CureMetrix is a San-Diego based company that uses advanced machine learning, natural language understanding (NLU), and computer vision technology to assist radiologists in 
+analyzing mammograms for cancer detection. 
+
+The company’s use of complex neural networks and disparate sources of training data, including doctor reports and a large database of mammograms, resulted in successful
+detection of breast cancer up to 6 years earlier than human doctors and enabled a 70% reduction in the number of false positives compared to other solutions currently in
+the market. 
+
+CureMetrix produced such high efficacy in mammogram analysis that the FDA created a new code for their cmTriage (™) platform breast cancer detection driving others to use
+them as a predicate.
+
+ The success of their solution has drawn the attention of some of the most renowned healthcare institutions in the world including MD Anderson, the Mayo Clinic, and Dasa
+ from Brazil.
+
+\end{Role of AI}
+
+
+
+\end{document}
